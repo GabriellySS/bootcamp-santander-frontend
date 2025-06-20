@@ -25,6 +25,11 @@ A ideia deste desafio é elaborar um website com uma estrutura básica, aplicand
 
 ---
 
+## 📸 Prévia do Projeto
+![image](https://github.com/user-attachments/assets/85e225d6-91a2-424c-a862-3c9dd1c82e25)
+
+---
+
 ## 💙 Considerações finais
 Foi meu primeiro passo no mundo do Front-End, feito com 💙 durante o Bootcamp Santander na [DIO.](https://dio.me)
 
