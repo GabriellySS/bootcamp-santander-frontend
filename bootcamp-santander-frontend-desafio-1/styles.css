@@ -1,0 +1,24 @@
+* {
+  font-family: "Open Sans", sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  padding: 2rem;
+  background-color: #f0f0f0;
+}
+
+h1,
+h2 {
+  color: #1c1c1c;
+}
+
+p,
+li {
+  color: #363636;
+}
+
+blockquote {
+  color: #363636;
+  font-style: italic;
+}
