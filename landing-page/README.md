@@ -27,19 +27,20 @@ A proposta é colocar em prática os fundamentos do CSS, como propriedades de la
 
 ## 📁 Estrutura do projeto
 
+```
 landing-page/
 ├── assets/
-| ├── css/  
-| | ├── reset.css
-| | └── style.css
-| └── images/
-| ├── banner.png
-| ├── dio-logo.png
-| ├── logo.png
-| ├── professional-challenges.png
-| └── woman-code.png
+|   ├── css/  
+|   |   ├── reset.css
+|   |   └── style.css
+|   └── images/
+|       ├── banner.png
+|       ├── dio-logo.png
+|       ├── logo.png
+|       ├── professional-challenges.png
+|       └── woman-code.png
 └── index.html
-
+```
 ---
 
 ## 💙 Considerações finais
