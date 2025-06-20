@@ -1,51 +1,45 @@
-# 📚 Recriando a Wikipedia — com um layout melhor :)
+# 🚀 Bootcamp Santander Front-End  
+### 📘 Desafio 02 – Recriando a Wikipedia com layout moderno
 
-Este projeto faz parte do Bootcamp Santander Front-End na [DIO](https://dio.me).  
-O desafio propõe reconstruir uma página inspirada na Wikipedia, com foco em **estrutura HTML**, **semântica** e um toque de **estilo com CSS**.
+Projeto inspirado na Wikipedia, com foco na estruturação semântica do HTML e aplicação de CSS para um layout mais moderno e acessível.
 
 ---
 
 ## 🎯 Objetivo
 
-- Treinar a **estruturação de conteúdo** com HTML.
-- Aplicar boas práticas de **HTML semântico**.
-- Trabalhar aspectos de **acessibilidade**.
-- Personalizar o layout com CSS para deixar a página mais agradável e moderna.
+- Treinar a estruturação de conteúdo com HTML semântico.
+- Aplicar boas práticas de acessibilidade.
+- Personalizar o layout com CSS para melhorar a experiência do usuário.
 
 ---
 
-## 💡 Sobre o desafio
-
-- A base do layout já veio pré-montada no repositório fornecido pela DIO.
-- O foco é se divertir, experimentar e aprender com liberdade criativa.
-- Você pode escolher qualquer tema — eu escolhi: **A série The Last Of Us** 🎨
+## 🛠 Tecnologias utilizadas
+- HTML5
+- CSS3
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+## 💡 Detalhes do projeto
 
-- HTML5  
-- CSS3  
-- Um toque de criatividade ✨
-
----
-
-## 📸 Prévia do Projeto
-
-<img width="1434" alt="image" src="https://github.com/user-attachments/assets/a4224980-66c3-4250-97f7-51a5cf428b17" />
+- A base do layout foi fornecida pela DIO.
+- Tema escolhido: série The Last Of Us.
+- Objetivo principal: aprender e experimentar com liberdade criativa.
 
 ---
 
 ## 🧠 Aprendizados
+- Uso de tags semânticas como `<main>`, `<section>`, `<header>`, `<footer>`, `<figure>`.
+- Importância da acessibilidade e organização do código.
+- Transformação visual simples com CSS.
+  
+---
 
-Com esse desafio, pude reforçar:
+## 📸 Prévia do Projeto
 
-- A importância das tags semânticas como `<main>`, `<section>`, `<header>`, `<footer>`, `<figure>` e outras.
-- Como uma estrutura bem montada melhora a acessibilidade e leitura do código.
-- Como aplicar CSS simples pode transformar a aparência de uma página.
+![image](https://github.com/user-attachments/assets/94bb0d14-9e68-4c68-9818-6c1610e55de4)
 
 ---
 
-Feito com ❤️ durante o bootcamp **Santander Front-End** na DIO.  
-Vamos dominar o front, um `<div>` de cada vez! 💻🚀
+## 💙 Considerações finais
+Feito com ❤️ durante o Bootcamp Santander na DIO. Vamos dominar o front, um `<div>` de cada vez! 💻🚀
 
