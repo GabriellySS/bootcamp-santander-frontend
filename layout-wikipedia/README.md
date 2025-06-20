@@ -1,5 +1,5 @@
 # 🚀 Bootcamp Santander Front-End  
-### 📘 Desafio 01 – Recriando a Wikipedia com layout moderno
+### 📘 Desafio 02 – Recriando a Wikipedia com layout moderno
 
 Projeto inspirado na Wikipedia, com foco na estruturação semântica do HTML e aplicação de CSS para um layout mais moderno e acessível.
 
