@@ -33,6 +33,18 @@ Este desafio consiste em **recriar a estrutura de uma página inspirada na Wikip
 
 ---
 
+### 🔸 [landing-page](landing-page/)
+
+📄 **Descrição:**  
+Desenvolvimento de uma **Landing Page responsiva**, utilizando HTML e CSS, focando na estrutura, estilização, e boas práticas com unidades relativas e absolutas.
+
+🎯 **Objetivo:**
+- Trabalhar com propriedades de layout (`margin`, `padding`, `display`, `position`, etc.).
+- Usar unidades de medida como `px`, `rem`, `%`, `em`.
+- Praticar organização de código com pastas separadas para estilos e imagens.
+
+---
+
 ## 🚀 Como usar
 
 Clone este repositório e navegue até uma das pastas dos desafios para visualizar ou editar os projetos localmente:
