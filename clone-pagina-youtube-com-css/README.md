@@ -2,7 +2,7 @@
 
 ### 📺 Desafio 4 — Clone da Página do YouTube com Flexbox
 
-Neste desafio do Bootcamp Santander - Trilha Front-End, o objetivo foi **reproduzir a interface da página inicial do YouTube** com HTML e CSS, focando especialmente no uso de **Flexbox** para o posicionamento e alinhamento dos elementos.
+Neste desafio do Bootcamp Santander - Trilha Front-End, o objetivo foi **reproduzir a interface de uma página do YouTube** com HTML e CSS, focando especialmente no uso de **Flexbox** para o posicionamento e alinhamento dos elementos.
 O layout base foi fornecido através de um projeto no **Figma**, servindo como referência para a estrutura visual.
 
 ---
