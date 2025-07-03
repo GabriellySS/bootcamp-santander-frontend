@@ -25,6 +25,11 @@ A proposta é colocar em prática os fundamentos do CSS, como propriedades de la
 
 ---
 
+## 📸 Prévia do Projeto
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/6ad8ac7a-3298-4161-8ca3-bfe9e12c7773" />
+
+---
+
 ## 📁 Estrutura do projeto
 
 ```
