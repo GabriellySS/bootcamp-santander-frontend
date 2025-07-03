@@ -65,3 +65,94 @@ nav {
   align-items: center;
   gap: 24px;
 }
+
+.container {
+  display: flex;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  flex: 1;
+  margin: 28px 25px 0 75px;
+}
+
+main h1 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: #000;
+}
+
+main .video-info {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 42px;
+}
+
+main .video-info .profile-info {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+main .video-info .profile-info img {
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+}
+
+main .video-info .profile-info h2 {
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: #000;
+}
+
+main .video-info .profile-info p {
+  font-size: 0.875rem;
+  font-weight: 400;
+  color: #515151;
+}
+
+main .video-info button {
+  width: 159px;
+  height: 40px;
+  border-radius: 2px;
+  border: none;
+  background-color: #c00;
+  color: #fff;
+  font-size: 0.875rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+main .video-info .video-stats {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+main .video-views {
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: #000;
+}
+
+main .video-description {
+  width: 510px;
+}
+
+main .video-description p {
+  font-size: 0.875rem;
+  font-weight: 400;
+  color: #515151;
+}
+
+aside {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  width: 372px;
+  margin: 28px 16px 0 0;
+  background-color: aqua;
+}
