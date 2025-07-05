@@ -18,6 +18,9 @@ O objetivo deste desafio é **elaborar uma página HTML básica**, utilizando um
 🎓 **Foco:**  
 Prática com HTML puro e conhecimento da estruturação semântica de conteúdo.
 
+📸 **Prévia do Projeto**
+![image](https://github.com/user-attachments/assets/85e225d6-91a2-424c-a862-3c9dd1c82e25)
+
 ---
 
 ### 🔸 [layout-wikipedia](layout-wikipedia/)
@@ -31,6 +34,9 @@ Este desafio consiste em **recriar a estrutura de uma página inspirada na Wikip
 - Utilizar tags HTML corretamente.
 - Aplicar conceitos de acessibilidade.
 
+📸 **Prévia do Projeto**
+![image](https://github.com/user-attachments/assets/94bb0d14-9e68-4c68-9818-6c1610e55de4)
+
 ---
 
 ### 🔸 [landing-page](landing-page/)
@@ -43,17 +49,38 @@ Desenvolvimento de uma **Landing Page responsiva**, utilizando HTML e CSS, focan
 - Usar unidades de medida como `px`, `rem`, `%`, `em`.
 - Praticar organização de código com pastas separadas para estilos e imagens.
 
+📸 **Prévia do Projeto**
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/6ad8ac7a-3298-4161-8ca3-bfe9e12c7773" />
+
 ---
 
-### 🔸 [clone-youtube](clone-pagina-youtube-com-css/)
+### 🔸 [clone-pagina-youtube-com-css](clone-pagina-youtube-com-css/)
 
 📄 **Descrição:**  
-Neste desafio, o objetivo foi **reproduzir a interface de uma página do YouTube**, utilizando HTML e CSS com foco em Flexbox. O layout base foi fornecido via **Figma**, como exercício de fidelidade visual..
+Neste desafio, o objetivo foi **reproduzir a interface de uma página do YouTube**, utilizando HTML e CSS com foco em Flexbox. O layout base foi fornecido via **Figma**, como exercício de fidelidade visual.
 
 🎯 **Objetivo:**
 - Treinar posicionamento com Flexbox.
 - Reforçar boas práticas de CSS em layout moderno.
 - Reproduzir interfaces reais a partir de um design.
+
+📸 **Prévia do Projeto**
+<img width="1438" alt="image" src="https://github.com/user-attachments/assets/8e398c62-6a5d-4e35-bcb4-5e6eace37db6" />
+
+---
+
+### 🔸 [layout-responsivo-site-discord](layout-responsivo-site-discord/)
+
+📄 **Descrição:**  
+Desafio prático de reprodução da página principal da plataforma Discord, com foco em responsividade. A interface foi baseada em um layout no Figma, exigindo atenção aos detalhes visuais e adaptação entre diferentes tamanhos de tela.
+
+🎯 **Objetivo:**
+- Reforçar conceitos de CSS responsivo.
+- Utilizar Flexbox e Media Queries para estrutura fluida.
+- Trabalhar com fidelidade visual baseada em um projeto real.
+
+📸 **Prévia do Projeto**
+<img width="1438" alt="image" src="layout-responsivo-site-discord/preview.png" />
 
 ---
 
