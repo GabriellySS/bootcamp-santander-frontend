@@ -45,6 +45,18 @@ Desenvolvimento de uma **Landing Page responsiva**, utilizando HTML e CSS, focan
 
 ---
 
+### 🔸 [clone-youtube](clone-pagina-youtube-com-css/)
+
+📄 **Descrição:**  
+Neste desafio, o objetivo foi **reproduzir a interface de uma página do YouTube**, utilizando HTML e CSS com foco em Flexbox. O layout base foi fornecido via **Figma**, como exercício de fidelidade visual..
+
+🎯 **Objetivo:**
+- Treinar posicionamento com Flexbox.
+- Reforçar boas práticas de CSS em layout moderno.
+- Reproduzir interfaces reais a partir de um design.
+
+---
+
 ## 🚀 Como usar
 
 Clone este repositório e navegue até uma das pastas dos desafios para visualizar ou editar os projetos localmente:
