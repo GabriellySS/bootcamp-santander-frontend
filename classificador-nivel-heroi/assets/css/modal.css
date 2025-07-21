@@ -1,0 +1,36 @@
+main dialog::backdrop {
+  /* background-color: rgba(0, 0, 0, 0.5); */
+  background-color: aqua;
+}
+
+main dialog {
+  width: 300px;
+  margin: auto;
+  padding: 32px;
+  gap: 0.5rem;
+  border-radius: 16px;
+  border: 2px solid #1c1c1e;
+  background: #ffc107;
+}
+
+main dialog button {
+  align-self: flex-end;
+  cursor: pointer;
+  border: none;
+  background: transparent;
+}
+
+main dialog h3 {
+  font-size: 1rem;
+  text-align: center;
+}
+
+main dialog h2 {
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+main dialog p {
+  font-size: 16px;
+  text-align: center;
+}
