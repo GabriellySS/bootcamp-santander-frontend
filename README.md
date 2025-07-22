@@ -84,6 +84,21 @@ Desafio prático de reprodução da página principal da plataforma Discord, com
 
 ---
 
+### 🔸 [classificador-nivel-heroi](classificador-nivel-heroi)
+
+📄 **Descrição:**  
+Neste desafio, o objetivo foi desenvolver um programa em JavaScript que classifica o nível de um herói com base em sua experiência (XP). Aproveitei os aprendizados dos desafios anteriores em HTML e CSS para criar uma interface visual personalizada, prototipada no Figma e aplicada ao projeto.
+
+🎯 **Objetivo:**
+- Praticar variáveis, operadores, estruturas de decisão e repetição com JavaScript.
+- Consolidar a lógica condicional e exibição de mensagens dinâmicas.
+
+📸 **Prévia do Projeto**
+
+<img width="auto" height="400" alt="image" src="https://github.com/user-attachments/assets/2ca62bc8-af21-4c4a-b3fd-223d4220f56f"><img width="auto" height="400" alt="image" src="https://github.com/user-attachments/assets/e45aedc4-6333-49b1-9dff-172cfd53ea65" />
+
+---
+
 ## 🚀 Como usar
 
 Clone este repositório e navegue até uma das pastas dos desafios para visualizar ou editar os projetos localmente:
@@ -91,3 +106,4 @@ Clone este repositório e navegue até uma das pastas dos desafios para visualiz
 ```bash
 git clone https://github.com/GabriellySS/bootcamp-santander-frontend.git
 cd bootcamp-santander-frontend/layout-wikipedia
+
