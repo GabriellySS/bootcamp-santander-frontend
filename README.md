@@ -114,6 +114,15 @@ Além da codificação, o desafio envolveu prototipação, versionamento e publi
 📸 **Prévia do Projeto**
 <img width="1440" height="auto" alt="image" src="https://github.com/user-attachments/assets/f677c2cf-2cf8-4f3f-bd23-cdeaf23b5556" />
 
+---
+
+### 🔸 [pokedex](https://github.com/GabriellySS/pokedex)
+
+📄 **Descrição:**  
+Neste desafio, o foco é o consumo de uma API REST.
+
+📸 **Prévia do Projeto**
+<img width="1440" height="auto" alt="image" src="https://github.com/user-attachments/assets/ddb577fd-6f47-433b-b94d-105fcfc22526" />
 
 ---
 
