@@ -19,7 +19,7 @@ O objetivo deste desafio é **elaborar uma página HTML básica**, utilizando um
 Prática com HTML puro e conhecimento da estruturação semântica de conteúdo.
 
 📸 **Prévia do Projeto**
-![image](https://github.com/user-attachments/assets/85e225d6-91a2-424c-a862-3c9dd1c82e25)
+<img width="1440" height="auto" alt="image" src="https://github.com/user-attachments/assets/85e225d6-91a2-424c-a862-3c9dd1c82e25" />
 
 ---
 
@@ -35,7 +35,7 @@ Este desafio consiste em **recriar a estrutura de uma página inspirada na Wikip
 - Aplicar conceitos de acessibilidade.
 
 📸 **Prévia do Projeto**
-![image](https://github.com/user-attachments/assets/94bb0d14-9e68-4c68-9818-6c1610e55de4)
+<img width="1440" height="auto" alt="image" src="https://github.com/user-attachments/assets/94bb0d14-9e68-4c68-9818-6c1610e55de4" />
 
 ---
 
@@ -50,7 +50,7 @@ Desenvolvimento de uma **Landing Page responsiva**, utilizando HTML e CSS, focan
 - Praticar organização de código com pastas separadas para estilos e imagens.
 
 📸 **Prévia do Projeto**
-<img width="1440" alt="image" src="https://github.com/user-attachments/assets/6ad8ac7a-3298-4161-8ca3-bfe9e12c7773" />
+<img width="1440" height="auto" alt="image" src="https://github.com/user-attachments/assets/6ad8ac7a-3298-4161-8ca3-bfe9e12c7773" />
 
 ---
 
@@ -65,7 +65,7 @@ Neste desafio, o objetivo foi **reproduzir a interface de uma página do YouTube
 - Reproduzir interfaces reais a partir de um design.
 
 📸 **Prévia do Projeto**
-<img width="1438" alt="image" src="https://github.com/user-attachments/assets/8e398c62-6a5d-4e35-bcb4-5e6eace37db6" />
+<img width="1440" height="auto" alt="image" src="https://github.com/user-attachments/assets/8e398c62-6a5d-4e35-bcb4-5e6eace37db6" />
 
 ---
 
@@ -80,7 +80,7 @@ Desafio prático de reprodução da página principal da plataforma Discord, com
 - Trabalhar com fidelidade visual baseada em um projeto real.
 
 📸 **Prévia do Projeto**
-<img width="1438" alt="image" src="layout-responsivo-site-discord/preview.png" />
+<img width="1440" height="auto" alt="image" src="layout-responsivo-site-discord/preview.png" />
 
 ---
 
@@ -95,7 +95,25 @@ Neste desafio, o objetivo foi desenvolver um programa em JavaScript que classifi
 
 📸 **Prévia do Projeto**
 
-<img width="auto" height="400" alt="image" src="https://github.com/user-attachments/assets/2ca62bc8-af21-4c4a-b3fd-223d4220f56f"><img width="auto" height="400" alt="image" src="https://github.com/user-attachments/assets/e45aedc4-6333-49b1-9dff-172cfd53ea65" />
+<img width="auto" height="350" alt="image" src="https://github.com/user-attachments/assets/2ca62bc8-af21-4c4a-b3fd-223d4220f56f"><img width="auto" height="350" alt="image" src="https://github.com/user-attachments/assets/e45aedc4-6333-49b1-9dff-172cfd53ea65" />
+
+---
+
+### 🔸 [gabriellyss.github.io](https://github.com/GabriellySS/gabriellyss.github.io)
+
+📄 **Descrição:**  
+Neste desafio, o foco foi criar um **portfólio pessoal** aplicando os conhecimentos de HTML, CSS e JavaScript, com liberdade para personalizar o design, adicionar interatividade e destacar os projetos desenvolvidos ao longo da trilha.  
+Além da codificação, o desafio envolveu prototipação, versionamento e publicação.
+
+🎯 **Objetivo:**
+- Criar uma página de portfólio com identidade visual própria.
+- Reforçar conceitos de semântica, responsividade e interatividade.
+- Prototipar interfaces com Figma.
+- Versionar e publicar o projeto com GitHub e GitHub Pages.
+
+📸 **Prévia do Projeto**
+<img width="1440" height="auto" alt="image" src="https://github.com/user-attachments/assets/f677c2cf-2cf8-4f3f-bd23-cdeaf23b5556" />
+
 
 ---
 
