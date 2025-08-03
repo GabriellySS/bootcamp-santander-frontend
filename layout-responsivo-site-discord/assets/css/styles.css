@@ -58,11 +58,27 @@ header .buttons button {
 header .buttons #btn-white {
   background-color: #fff;
   color: #23272a;
+  width: 100%;
+}
+
+#btn-white:hover {
+  background: #666666;
+  background: linear-gradient(
+    0deg,
+    rgba(102, 102, 102, 1) 0%,
+    rgba(27, 28, 30, 0) 50%
+  );
 }
 
 header .buttons #btn-black {
   background-color: #23272a;
   color: #fff;
+  width: 100%;
+}
+
+#btn-black:hover {
+  background-color: #23272a;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0) 50%);
 }
 
 main section {
