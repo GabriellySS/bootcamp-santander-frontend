@@ -26,6 +26,14 @@ button {
   font-weight: 400;
 }
 
+button {
+  cursor: pointer;
+}
+
+a {
+  text-decoration: none;
+}
+
 header h1 {
   color: #fff;
 }
