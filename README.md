@@ -149,6 +149,19 @@ Neste desafio, o foco é o consumo de uma API REST.
 
 ---
 
+### 🔸 [yugioh-jokenpo](yugioh-jokenpo)
+
+📄 **Descrição:**  
+Este projeto é uma página interativa do jogo Jokenpô (Pedra, Papel e Tesoura), desenvolvida com tema inspirado no universo de Yu-Gi-Oh!.
+
+📸 **Prévia do Projeto**
+
+<img width="768" height="auto" alt="image" src="https://github.com/user-attachments/assets/a9b69bec-d228-4350-8b22-e0c1d43731da" />
+
+[![Ver Online](https://img.shields.io/badge/ver%20Online-blue?style=for-the-badge&logo=vercel)](https://bootcamp-santander-frontend-eosin.vercel.app/yugioh-jokenpo/)
+
+---
+
 ## 🚀 Como usar
 
 Clone este repositório e navegue até uma das pastas dos desafios para visualizar ou editar os projetos localmente:
