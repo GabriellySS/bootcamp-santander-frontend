@@ -86,13 +86,25 @@ async function setCardsField(cardId) {
   state.fieldCards.player.style.display = 'block';
   state.fieldCards.computer.style.display = 'block';
 
-  state.fieldCards.player.src = cardData[cardId].img;
-  state.fieldCards.computer.src = cardData[computerCardId].img;
+  await hiddenCardDetails();
+
+  await drawCardsInField(cardId, computerCardId);
 
   let duelResults = await checkDuelResults(cardId, computerCardId);
 
   await updateScore();
   await drawButton(duelResults);
+}
+
+async function drawCardsInField(cardId, computerCardId) {
+  state.fieldCards.player.src = cardData[cardId].img;
+  state.fieldCards.computer.src = cardData[computerCardId].img;
+}
+
+async function hiddenCardDetails() {
+  state.cardSprites.avatar.src = '';
+  state.cardSprites.name.innerText = 'Selecione';
+  state.cardSprites.type.innerText = 'uma carta';
 }
 
 async function updateScore() {
