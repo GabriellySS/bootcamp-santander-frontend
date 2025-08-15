@@ -17,8 +17,8 @@ button {
 }
 
 main {
-    height: 100vh;
-    width: 100vw;
+    height: 100dvh;
+    width: 100dvw;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -29,6 +29,7 @@ main {
     flex-direction: column;
     justify-content: center;
     height: 100%;
+    width: 45rem;
     gap: 1rem;
 }
 
@@ -85,4 +86,36 @@ button {
 button:hover {
     color: #1b1c1e;
     background: #0abab5;
+}
+
+@media screen and (max-width:768px) {
+    main {
+        overflow: auto;
+    }
+
+    .container {
+        padding: 1rem;
+        justify-content: space-between;
+        gap: 1.5rem;
+        width: 100dvw;
+    }
+
+    .links {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 1rem;
+    }
+
+    .bi-arrow-right-circle-fill {
+        display: none;
+    }
+
+    a {
+        width: 100%;
+    }
+
+    button {
+        height: 3rem;
+        width: 100%;
+    }
 }
